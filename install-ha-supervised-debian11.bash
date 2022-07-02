@@ -29,9 +29,7 @@ sudo systemctl restart networking & sudo systemctl restart NetworkManager
 cd
 
 #Install latest Docker-CE
-sudo -i
-curl -fsSL get.docker.com | sh
-exit
+curl -fsSL get.docker.com | sudo sh
 
 #Install the OS-Agent
 #Check the latest release at https://github.com/home-assistant/os-agent/releases, then download the file.
