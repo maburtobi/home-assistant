@@ -1,17 +1,12 @@
-**A guidance and documentation for zero to ready-to-use Home Assistant system.**
-**_Panduan dan dokumentasi sistem Home Assistant dari nol hingga siap pakai._**
+**A guidance and documentation for zero to ready-to-use Home Assistant system.**<br>
+>**_Panduan dan dokumentasi sistem Home Assistant dari nol hingga siap beroperasi._**
+
+<br>
 
 Home assistant is a software that widely used for managing and coordinating IoT devices.
-_ID: Home assistant merupakan perangkat lunak yang umum digunakan untuk membantu mengelola dan mengordinasikan perangkat IoT._
+>_ID: Home assistant merupakan perangkat lunak yang umum digunakan untuk membantu mengelola dan mengordinasikan perangkat IoT._
+>_Home Assistant (HA) merupakan perangkat lunak untuk otomasi rumah serta bersifat ''Open source'' yang mengutamakan kontrol dan privasi kepada pengguna. HA didukung oleh komunitas yang tersebar di seluruh dunia dan penggemar DIY. HA juga dapat dioperasikan pada Raspberry Pi atau server lokal._
 
-
-Home Assistant (HA) merupakan perangkat lunak untuk otomasi rumah serta bersifat ''Open source'' yang mengutamakan kontrol dan privasi kepada pengguna. HA didukung oleh komunitas yang tersebar di seluruh dunia dan penggemar DIY. HA juga dapat dioperasikan pada Raspberry Pi atau server lokal.
-
-Definitely will add several things later.
-* Prequisite, system requirements, some interesting experience during experiment
-* Review: what you want to try to achieve?
-* how to install (step-by-step and bash script)
-* Configuration
 
 
 # Getting ready
