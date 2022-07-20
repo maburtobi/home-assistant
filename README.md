@@ -19,8 +19,8 @@ Definitely will add several things later.
 We can use virtual machine or bare metal server for this.
 Kita bisa menggunakan VM atau server fisik untuk instalasi HA.
 ```
-wget https://raw.githubusercontent.com/maburtobi/home-assistant/main/install-ha-supervised-debian11.bash | \
-bash
+wget https://raw.githubusercontent.com/maburtobi/home-assistant/main/install-ha-supervised-debian11.bash && \
+bash install-ha-supervised-debian11.bash
 ```
 
 
